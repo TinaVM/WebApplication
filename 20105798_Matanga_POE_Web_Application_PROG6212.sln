@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20105798_Matanga_POE_Web_Application_PROG6212", "20105798_Matanga_POE_Web_Application_PROG6212.csproj", "{B4958977-2CAD-4D7C-9192-5BF0B2185BC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4958977-2CAD-4D7C-9192-5BF0B2185BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4958977-2CAD-4D7C-9192-5BF0B2185BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4958977-2CAD-4D7C-9192-5BF0B2185BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4958977-2CAD-4D7C-9192-5BF0B2185BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829D3E46-AD56-4C98-A211-FF7E90411C60}
+	EndGlobalSection
+EndGlobal
